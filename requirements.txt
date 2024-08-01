@@ -1,0 +1,7 @@
+easyocr
+cv2
+torch
+torchvision
+torchaudio
+numpy
+matplotlib
